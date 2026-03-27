@@ -1,5 +1,5 @@
 
-![Logo](https://res.cloudinary.com/dn315nwjr/image/upload/v1774638037/BCode_1_e5oxvh.png)
+![Logo](https://res.cloudinary.com/dn315nwjr/image/upload/v1774638731/BCode111_x3bkon.png)
 
 # Hola, soy Brandon Acevedo 👋 
 

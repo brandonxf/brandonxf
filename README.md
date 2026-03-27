@@ -34,15 +34,6 @@
 **Herramientas:**
 `Git` `Docker` `Prisma`
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🧩 Proyectos Destacados
 
@@ -61,14 +52,6 @@
 * ⚙️ Tech: Next.js, Prisma, PostgreSQL
 * 🔗 Demo: [Ver proyecto](integraseo.vercel.app)
 * 💻 Código: [Repositorio](https://github.com/brandonxf/integraseo)
-
----
-
-## 📈 En qué estoy trabajando ahora
-
-* 🛠️ Construyendo un SaaS tipo marketplace de servicios (tipo Rappi pero para oficios)
-* 📊 Mejorando arquitectura backend y manejo de usuarios
-* 🔐 Implementando autenticación y manejo de datos por usuario
 
 ---
 

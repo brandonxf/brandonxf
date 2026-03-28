@@ -57,7 +57,7 @@
 
 ## 🤝 Conecta conmigo
 
-* 💼 LinkedIn: [perfil](www.linkedin.com/in/brandonxf)
+* 💼 LinkedIn: [perfil](https://linkedin.com/in/brandonxf)
 * 📧 Email: [brandonace07@gmail.com](brandonace07@gmail.com)
 
 ---

@@ -50,7 +50,7 @@
 
 
 * ⚙️ Tech: Next.js, Prisma, PostgreSQL
-* 🔗 Demo: [Ver proyecto](integraseo.vercel.app)
+* 🔗 Demo: [Ver proyecto](https://integraseo.vercel.app)
 * 💻 Código: [Repositorio](https://github.com/brandonxf/integraseo)
 
 ---

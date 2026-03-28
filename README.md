@@ -57,7 +57,7 @@
 
 ## 🤝 Conecta conmigo
 
-* 💼 LinkedIn: [perfil](www.linkedin.com/in/brandon-acevedo-30141420b)
+* 💼 LinkedIn: [perfil](www.linkedin.com/in/brandonxf)
 * 📧 Email: [brandonace07@gmail.com](brandonace07@gmail.com)
 
 ---

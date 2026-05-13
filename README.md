@@ -9,48 +9,48 @@
 </p>
 
 <p align="center">
-  💻 Desarrollador enfocado en construir soluciones reales, no solo código. <br>
-  🚀 Apasionado por el software, el autoaprendizaje y crear productos que escalen.
+   Desarrollador enfocado en construir soluciones reales, no solo código. <br>
+   Apasionado por el software, el autoaprendizaje y crear productos que escalen.
 </p>
 
 ---
 
-# 🚀 Sobre mí
+#  Sobre mí
 
-- 🔭 Actualmente trabajando en proyectos propios tipo SaaS
-- 🌱 Aprendiendo constantemente sobre backend, arquitectura y productos digitales
-- ⚡ Me gusta resolver problemas complejos con soluciones simples
-- 🎯 Enfoque: construir cosas que la gente realmente use
+- | Actualmente trabajando en proyectos propios tipo SaaS
+- | Aprendiendo constantemente sobre backend, arquitectura y productos digitales
+- | Me gusta resolver problemas complejos con soluciones simples
+- | Enfoque: construir cosas que la gente realmente use
 
 ---
 
-# 🧠 Tech Stack
+#  Tech Stack
 
-## 🚀 Lenguajes
+## | Lenguajes
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs" />
 </p>
 
-## 🎨 Frontend
+## | Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-## ⚙️ Backend
+## | Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,express" />
 </p>
 
-## 🗄️ Bases de datos
+## | Bases de datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-## 🛠️ Herramientas
+## | Herramientas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,prisma,vscode,github" />
@@ -58,7 +58,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# | GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonxf&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -68,11 +68,11 @@
 
 ---
 
-# 🧩 Proyectos Destacados
+# | Proyectos Destacados
 
-## 🚀 Manjares Del Campo
+## | Manjares Del Campo
 
-🌾 Plataforma enfocada en gestión y visualización de productos agrícolas.
+| Plataforma enfocada en gestión y visualización de productos agrícolas.
 
 - ⚙️ Tech: React, Node.js, PostgreSQL
 - 🔗 Demo: https://granja-nu.vercel.app
@@ -80,9 +80,9 @@
 
 ---
 
-## 🚀 GoRutas
+## | GoRutas
 
-🛣️ Plataforma orientada a rutas y gestión operativa.
+| Plataforma orientada a rutas y gestión operativa.
 
 - ⚙️ Tech: Next.js, Prisma, PostgreSQL
 - 🔗 Demo: https://integraseo.vercel.app
@@ -90,7 +90,7 @@
 
 ---
 
-# 🤝 Conecta conmigo
+# | Conecta conmigo
 
 <p>
   <a href="https://linkedin.com/in/brandonxf">
@@ -104,6 +104,6 @@
 
 ---
 
-# 💡 Filosofía
+# | Filosofía
 
 > “No se trata de saber programar, se trata de construir cosas que funcionen en el mundo real.”

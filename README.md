@@ -69,8 +69,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=brandonxf&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
-<img src="https://github-contributions-api.deno.dev/brandonxf.svg?bg=0d1117&color=38bdf8&dark=true" width="100%" alt="contribuciones" />
-
 </div>
 
 <!-- ============ PROYECTOS ============ -->

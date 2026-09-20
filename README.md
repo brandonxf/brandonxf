@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<a href="https://github.com/brandonxf"><img src="https://cdn.simpleicons.org/github/white" width="36" height="36" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:brandonace07@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" width="36" height="36" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/brandxn__0"><img src="https://api.iconify.design/logos/instagram-icon.svg" width="36" height="36" alt="Instagram" /></a>
+<a href="https://github.com/brandonxf"><img src="https://cdn.simpleicons.org/github/white" width="36" height="36" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:brandonace07@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" width="36" height="36" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/brandxn__0"><img src="https://skillicons.dev/icons?i=instagram" width="36" height="36" alt="Instagram" /></a>
 <!-- Agrega aquí tu LinkedIn: https://www.linkedin.com/in/TU-USUARIO -->
 
 </div>

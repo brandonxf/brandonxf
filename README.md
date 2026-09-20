@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Brandon%20Acevedo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20SaaS%20Builder&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/brandonxf/brandonxf/main/assets/header.svg" width="100%" alt="Brandon Acevedo - Full Stack Developer" />
 
 <a href="https://github.com/brandonxf">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vertical=true&width=650&height=80&lines=Hola%2C+soy+Brandon+%F0%9F%91%8B;Construyo+soluciones+reales%2C+no+solo+c%C3%B3digo;Full+Stack+Junior+%7C+SaaS+Developer;Si+funciona+en+el+mundo+real%2C+vale+la+pena" alt="Typing SVG" />
@@ -99,6 +99,6 @@
 
 > *"No se trata de saber programar, se trata de construir cosas que funcionen en el mundo real."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/brandonxf/brandonxf/main/assets/footer.svg" width="100%" alt="Gracias por visitar mi perfil" />
 
 </div>

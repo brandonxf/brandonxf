@@ -69,6 +69,8 @@
 
 <img src="https://streak-stats.demolab.com/?user=brandonxf&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
+<img src="https://raw.githubusercontent.com/brandonxf/brandonxf/main/assets/contrib-3d.svg" width="100%" alt="Grafica 3D de contribuciones" />
+
 </div>
 
 <!-- ============ PROYECTOS ============ -->

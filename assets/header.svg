@@ -37,6 +37,10 @@
     @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
     @keyframes blink { 50% { opacity: 0; } }
     @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    .chip { fill: #0b1220; fill-opacity: 0.55; stroke: #38bdf8; stroke-opacity: 0.3; animation: chipOn 5s infinite; }
+    .chipt { font: 600 12px 'Courier New', monospace; fill: #7f93b0; animation: txtOn 5s infinite; }
+    @keyframes chipOn { 0% { fill: #0b1220; fill-opacity: 0.55; stroke-opacity: 0.3; } 4%, 16% { fill: #38bdf8; fill-opacity: 0.22; stroke-opacity: 1; } 24%, 100% { fill: #0b1220; fill-opacity: 0.55; stroke-opacity: 0.3; } }
+    @keyframes txtOn { 0% { fill: #7f93b0; } 4%, 16% { fill: #e0f2fe; } 24%, 100% { fill: #7f93b0; } }
   </style>
   <rect width="900" height="220" rx="16" fill="url(#bg)"/>
   <g clip-path="url(#clip)">
@@ -99,6 +103,15 @@
     <rect width="900" height="220" fill="url(#dim)"/>
   </g>
   <text class="t" x="450" y="103" text-anchor="middle">Brandon Acevedo</text>
-  <rect class="ul" x="330" y="120" width="240" height="4" rx="2" fill="url(#line)"/>
+  <rect class="chip" x="230.0" y="116" width="60" height="24" rx="12" style="animation-delay:0s"/>
+  <text class="chipt" x="260.0" y="132" text-anchor="middle" style="animation-delay:0s">React</text>
+  <rect class="chip" x="300.0" y="116" width="74" height="24" rx="12" style="animation-delay:1s"/>
+  <text class="chipt" x="337.0" y="132" text-anchor="middle" style="animation-delay:1s">Next.js</text>
+  <rect class="chip" x="384.0" y="116" width="74" height="24" rx="12" style="animation-delay:2s"/>
+  <text class="chipt" x="421.0" y="132" text-anchor="middle" style="animation-delay:2s">Node.js</text>
+  <rect class="chip" x="468.0" y="116" width="96" height="24" rx="12" style="animation-delay:3s"/>
+  <text class="chipt" x="516.0" y="132" text-anchor="middle" style="animation-delay:3s">PostgreSQL</text>
+  <rect class="chip" x="574.0" y="116" width="96" height="24" rx="12" style="animation-delay:4s"/>
+  <text class="chipt" x="622.0" y="132" text-anchor="middle" style="animation-delay:4s">TypeScript</text>
   <text class="s" x="450" y="163" text-anchor="middle">Full Stack Developer · SaaS Builder<tspan class="cur">_</tspan></text>
 </svg>

@@ -18,7 +18,7 @@
 <br/>
 
 <!-- ============ SOBRE MI ============ -->
-## <img src="https://api.iconify.design/lucide/user.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> Sobre mí
+## <sup><img src="https://api.iconify.design/lucide/user.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /></sup> Sobre mí
 
 <table>
 <tr>
@@ -42,7 +42,7 @@
 </table>
 
 <!-- ============ TECH STACK ============ -->
-## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> Tech Stack
+## <sup><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /></sup> Tech Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 </div>
 
 <!-- ============ STATS ============ -->
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> GitHub Stats
+## <sup><img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /></sup> GitHub Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 </div>
 
 <!-- ============ PROYECTOS ============ -->
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> Proyectos Destacados
+## <sup><img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /></sup> Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
@@ -81,7 +81,7 @@
 | <img src="https://api.iconify.design/lucide/sprout.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="absmiddle" alt="" /> **Manjares Del Campo** | Gestión y visualización de productos agrícolas | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | <a href="https://granja-nu.vercel.app"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="absmiddle" alt="" />&nbsp;Demo</a><br/><a href="https://github.com/brandonxf/granja"><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="absmiddle" alt="" />&nbsp;Código</a> |
 
 <!-- ============ CONTACTO ============ -->
-## <img src="https://api.iconify.design/lucide/handshake.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> Conecta conmigo
+## <sup><img src="https://api.iconify.design/lucide/handshake.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /></sup> Conecta conmigo
 
 <div align="center">
 

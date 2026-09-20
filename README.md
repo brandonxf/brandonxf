@@ -67,9 +67,9 @@
 <img src="https://img.shields.io/badge/Repos-11-0e75b6?style=for-the-badge&logo=github" alt="repos" />
 <img src="https://img.shields.io/github/last-commit/brandonxf/brandonxf?style=for-the-badge&label=%C3%9Altimo%20commit&color=0e75b6" alt="last commit" />
 
-<img src="https://streak-stats.demolab.com/?user=brandonxf&theme=tokyo-night&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=brandonxf&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
-<img src="https://ghchart.rshah.org/38bdf8/brandonxf" width="100%" alt="contribuciones" />
+<img src="https://github-contributions-api.deno.dev/brandonxf.svg?bg=0d1117&color=38bdf8&dark=true" width="100%" alt="contribuciones" />
 
 </div>
 

@@ -4,45 +4,45 @@
 <img src="https://raw.githubusercontent.com/brandonxf/brandonxf/main/assets/header.svg" width="100%" alt="Brandon Acevedo - Full Stack Developer" />
 
 <a href="https://github.com/brandonxf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vertical=true&width=650&height=80&lines=Hola%2C+soy+Brandon+%F0%9F%91%8B;Construyo+soluciones+reales%2C+no+solo+c%C3%B3digo;Full+Stack+Junior+%7C+SaaS+Developer;Si+funciona+en+el+mundo+real%2C+vale+la+pena" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vertical=true&width=650&height=80&lines=Hola%2C+soy+Brandon;Construyo+soluciones+reales%2C+no+solo+c%C3%B3digo;Full+Stack+Junior+%7C+SaaS+Developer;Si+funciona+en+el+mundo+real%2C+vale+la+pena" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=brandonxf&label=Visitas&color=0e75b6&style=for-the-badge" alt="visitas" />
 <img src="https://img.shields.io/github/followers/brandonxf?label=Seguidores&style=for-the-badge&logo=github&color=0e75b6" alt="seguidores" />
-<img src="https://img.shields.io/badge/Colombia-%F0%9F%87%A8%F0%9F%87%B4-0e75b6?style=for-the-badge" alt="Colombia" />
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Colombia-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Colombia" />
 
 </div>
 
 <br/>
 
 <!-- ============ SOBRE MI ============ -->
-## 👨‍💻 Sobre mí
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> Sobre mí
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-🚀 Trabajando en proyectos propios tipo **SaaS**
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="middle" alt="" /> Trabajando en proyectos propios tipo **SaaS**
 
-📚 Aprendiendo backend, arquitectura y productos digitales
+<img src="https://api.iconify.design/lucide/book-open.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="middle" alt="" /> Aprendiendo backend, arquitectura y productos digitales
 
-🧩 Resuelvo problemas complejos con soluciones simples
+<img src="https://api.iconify.design/lucide/puzzle.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="middle" alt="" /> Resuelvo problemas complejos con soluciones simples
 
-🎯 Enfoque: construir cosas que la gente **realmente use**
+<img src="https://api.iconify.design/lucide/target.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="middle" alt="" /> Enfoque: construir cosas que la gente **realmente use**
 
 </td>
 <td width="40%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=22C55E&center=true&vertical=true&width=280&height=120&lines=%24+git+commit+-m+%22ship+it%22;%24+npm+run+build;%E2%9C%94+Deploy+exitoso;%24+aprender+%26%26+construir" alt="terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=22C55E&center=true&vertical=true&width=280&height=120&lines=%24+git+commit+-m+%22ship+it%22;%24+npm+run+build;Deploy+exitoso;%24+aprender+%26%26+construir" alt="terminal" />
 
 </td>
 </tr>
 </table>
 
 <!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> Tech Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 </div>
 
 <!-- ============ STATS ============ -->
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> GitHub Stats
 
 <div align="center">
 
@@ -72,15 +72,16 @@
 </div>
 
 <!-- ============ PROYECTOS ============ -->
-## 🚀 Proyectos Destacados
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Links |
 |---|---|---|---|
-| 🌾 **Manjares Del Campo** | Gestión y visualización de productos agrícolas | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [Demo](https://granja-nu.vercel.app) · [Código](https://github.com/brandonxf/granja) |
-| 🚚 **GoRutas** | Plataforma de rutas y gestión operativa | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [Demo](https://integraseo.vercel.app) · [Código](https://github.com/brandonxf/integraseo) |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="middle" alt="" /> **LifeOS App** | Sistema operativo personal: finanzas, tareas, hábitos, metas, salud y asistente de IA | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | <a href="https://life-os-2-0-client.vercel.app/"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" /> Demo</a><br/><a href="https://github.com/brandonxf/LifeOS-2.0"><img src="https://api.iconify.design/lucide/github.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" /> Código</a> |
+| <img src="https://api.iconify.design/lucide/layout-template.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="middle" alt="" /> **LifeOS Landing** | Landing page de LifeOS con sección de descarga del APK | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | <a href="https://lifeos-landing-liart.vercel.app"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" /> Demo</a><br/><a href="https://github.com/brandonxf/lifeos-landing"><img src="https://api.iconify.design/lucide/github.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" /> Código</a> |
+| <img src="https://api.iconify.design/lucide/sprout.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="middle" alt="" /> **Manjares Del Campo** | Gestión y visualización de productos agrícolas | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | <a href="https://granja-nu.vercel.app"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" /> Demo</a><br/><a href="https://github.com/brandonxf/granja"><img src="https://api.iconify.design/lucide/github.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" /> Código</a> |
 
 <!-- ============ CONTACTO ============ -->
-## 🤝 Conecta conmigo
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> Conecta conmigo
 
 <div align="center">
 

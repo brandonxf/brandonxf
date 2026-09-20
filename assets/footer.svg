@@ -4,22 +4,92 @@
       <stop offset="0" stop-color="#0b1220"/>
       <stop offset="1" stop-color="#16244a"/>
     </linearGradient>
-    <linearGradient id="sweep" x1="0" x2="1">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
-    </linearGradient>
+    <radialGradient id="dim" cx="0.5" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#0b1220" stop-opacity="0.85"/>
+      <stop offset="0.6" stop-color="#0b1220" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#0b1220" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="900" height="100" rx="16"/></clipPath>
+    <g id="c0"><text class="r d">Q8VQCG</text><text class="r m" y="0">Q8VQCG</text><text class="r h" y="64">CG</text></g>
+    <g id="c1"><text class="r d">1V25GM</text><text class="r m" y="0">1V25GM</text><text class="r h" y="64">GM</text></g>
+    <g id="c2"><text class="r d">UGDV2Z</text><text class="r m" y="0">UGDV2Z</text><text class="r h" y="64">2Z</text></g>
+    <g id="c3"><text class="r d">RLLGZFH</text><text class="r m" y="16">LLGZFH</text><text class="r h" y="80">FH</text></g>
+    <g id="c4"><text class="r d">9T6DZ8</text><text class="r m" y="0">9T6DZ8</text><text class="r h" y="64">Z8</text></g>
+    <g id="c5"><text class="r d">9FAWJDL35</text><text class="r m" y="48">WJDL35</text><text class="r h" y="112">35</text></g>
+    <g id="c6"><text class="r d">4S93F5</text><text class="r m" y="0">4S93F5</text><text class="r h" y="64">F5</text></g>
+    <g id="c7"><text class="r d">0N8AKQD</text><text class="r m" y="16">N8AKQD</text><text class="r h" y="80">QD</text></g>
   </defs>
   <style>
+    .r { font: 700 14px 'Courier New', monospace; writing-mode: vertical-lr; text-orientation: upright; letter-spacing: 2px; }
+    .d { fill: #38bdf8; fill-opacity: 0.22; }
+    .m { fill: #38bdf8; fill-opacity: 0.6; }
+    .h { fill: #7dd3fc; fill-opacity: 1; }
+    .f { animation-name: fall; animation-timing-function: linear; animation-iteration-count: infinite; }
+    @keyframes fall { from { transform: translateY(-150px); } to { transform: translateY(110px); } }
     .p { font: 500 20px 'Courier New', monospace; fill: #38bdf8; }
-    .m { font: 500 20px 'Courier New', monospace; fill: #e2e8f0; }
+    .m2 { font: 500 20px 'Courier New', monospace; fill: #e2e8f0; }
     .cur { fill: #38bdf8; animation: blink 1s steps(1) infinite; }
-    .sw { animation: slide 3.5s ease-in-out infinite alternate; }
     @keyframes blink { 50% { opacity: 0; } }
-    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(600px); } }
   </style>
   <rect width="900" height="100" rx="16" fill="url(#bg)"/>
-  <text class="m" x="450" y="52" text-anchor="middle"><tspan class="p">$ </tspan>gracias por visitar mi perfil<tspan class="cur">_</tspan></text>
-  <rect x="0" y="80" width="900" height="2" fill="#38bdf8" fill-opacity="0.15"/>
-  <rect class="sw" x="0" y="79" width="300" height="4" rx="2" fill="url(#sweep)"/>
+  <g clip-path="url(#clip)">
+    <use href="#c1" x="8" class="f" style="animation-duration:5.7s;animation-delay:-1.3s;opacity:0.55"/>
+    <use href="#c7" x="24" class="f" style="animation-duration:5.5s;animation-delay:-5.2s;opacity:0.55"/>
+    <use href="#c1" x="40" class="f" style="animation-duration:5.2s;animation-delay:-2.4s;opacity:0.54"/>
+    <use href="#c6" x="56" class="f" style="animation-duration:5.7s;animation-delay:-4.3s;opacity:0.64"/>
+    <use href="#c7" x="72" class="f" style="animation-duration:5.5s;animation-delay:-0.3s;opacity:0.84"/>
+    <use href="#c0" x="88" class="f" style="animation-duration:6.6s;animation-delay:-3.8s;opacity:0.99"/>
+    <use href="#c7" x="104" class="f" style="animation-duration:4.6s;animation-delay:-1.3s;opacity:0.60"/>
+    <use href="#c1" x="120" class="f" style="animation-duration:6.9s;animation-delay:-0.8s;opacity:0.86"/>
+    <use href="#c4" x="136" class="f" style="animation-duration:5.6s;animation-delay:-4.6s;opacity:0.59"/>
+    <use href="#c6" x="152" class="f" style="animation-duration:3.8s;animation-delay:-1.5s;opacity:0.67"/>
+    <use href="#c5" x="168" class="f" style="animation-duration:4.7s;animation-delay:-1.3s;opacity:0.56"/>
+    <use href="#c4" x="184" class="f" style="animation-duration:5.4s;animation-delay:-1.1s;opacity:0.57"/>
+    <use href="#c5" x="200" class="f" style="animation-duration:4.6s;animation-delay:-1.9s;opacity:0.78"/>
+    <use href="#c1" x="216" class="f" style="animation-duration:4.3s;animation-delay:-1.1s;opacity:0.64"/>
+    <use href="#c1" x="232" class="f" style="animation-duration:6.7s;animation-delay:-4.1s;opacity:0.69"/>
+    <use href="#c1" x="248" class="f" style="animation-duration:4.4s;animation-delay:-4.1s;opacity:0.82"/>
+    <use href="#c0" x="264" class="f" style="animation-duration:3.8s;animation-delay:-0.6s;opacity:0.75"/>
+    <use href="#c3" x="280" class="f" style="animation-duration:5.8s;animation-delay:-2.1s;opacity:0.89"/>
+    <use href="#c1" x="296" class="f" style="animation-duration:4.4s;animation-delay:-0.2s;opacity:0.93"/>
+    <use href="#c4" x="312" class="f" style="animation-duration:6.8s;animation-delay:-2.6s;opacity:0.69"/>
+    <use href="#c7" x="328" class="f" style="animation-duration:4.7s;animation-delay:-0.9s;opacity:0.83"/>
+    <use href="#c0" x="344" class="f" style="animation-duration:3.8s;animation-delay:-3.0s;opacity:0.99"/>
+    <use href="#c1" x="360" class="f" style="animation-duration:6.1s;animation-delay:-2.9s;opacity:0.52"/>
+    <use href="#c2" x="376" class="f" style="animation-duration:4.3s;animation-delay:-1.3s;opacity:0.94"/>
+    <use href="#c0" x="392" class="f" style="animation-duration:5.3s;animation-delay:-0.5s;opacity:0.98"/>
+    <use href="#c3" x="408" class="f" style="animation-duration:5.8s;animation-delay:-0.5s;opacity:0.78"/>
+    <use href="#c3" x="424" class="f" style="animation-duration:5.8s;animation-delay:-3.4s;opacity:0.71"/>
+    <use href="#c7" x="440" class="f" style="animation-duration:6.1s;animation-delay:-4.2s;opacity:0.64"/>
+    <use href="#c0" x="456" class="f" style="animation-duration:4.0s;animation-delay:-1.9s;opacity:0.99"/>
+    <use href="#c7" x="472" class="f" style="animation-duration:3.5s;animation-delay:-2.8s;opacity:0.51"/>
+    <use href="#c6" x="488" class="f" style="animation-duration:5.2s;animation-delay:-1.7s;opacity:0.86"/>
+    <use href="#c5" x="504" class="f" style="animation-duration:4.0s;animation-delay:-1.2s;opacity:0.87"/>
+    <use href="#c2" x="520" class="f" style="animation-duration:6.7s;animation-delay:-3.4s;opacity:0.62"/>
+    <use href="#c2" x="536" class="f" style="animation-duration:4.6s;animation-delay:-0.4s;opacity:0.98"/>
+    <use href="#c7" x="552" class="f" style="animation-duration:6.7s;animation-delay:-3.1s;opacity:0.64"/>
+    <use href="#c2" x="568" class="f" style="animation-duration:4.1s;animation-delay:-1.3s;opacity:0.84"/>
+    <use href="#c1" x="584" class="f" style="animation-duration:6.0s;animation-delay:-3.1s;opacity:0.72"/>
+    <use href="#c1" x="600" class="f" style="animation-duration:4.6s;animation-delay:-1.4s;opacity:0.74"/>
+    <use href="#c1" x="616" class="f" style="animation-duration:6.4s;animation-delay:-1.5s;opacity:0.66"/>
+    <use href="#c7" x="632" class="f" style="animation-duration:5.7s;animation-delay:-4.9s;opacity:0.56"/>
+    <use href="#c4" x="648" class="f" style="animation-duration:6.1s;animation-delay:-3.0s;opacity:0.95"/>
+    <use href="#c7" x="664" class="f" style="animation-duration:5.4s;animation-delay:-2.2s;opacity:0.67"/>
+    <use href="#c4" x="680" class="f" style="animation-duration:5.2s;animation-delay:-4.4s;opacity:0.64"/>
+    <use href="#c7" x="696" class="f" style="animation-duration:5.7s;animation-delay:-2.6s;opacity:0.50"/>
+    <use href="#c7" x="712" class="f" style="animation-duration:5.4s;animation-delay:-3.7s;opacity:0.87"/>
+    <use href="#c1" x="728" class="f" style="animation-duration:3.9s;animation-delay:-2.8s;opacity:0.74"/>
+    <use href="#c3" x="744" class="f" style="animation-duration:5.2s;animation-delay:-5.1s;opacity:0.54"/>
+    <use href="#c2" x="760" class="f" style="animation-duration:5.2s;animation-delay:-4.1s;opacity:0.74"/>
+    <use href="#c0" x="776" class="f" style="animation-duration:3.6s;animation-delay:-0.8s;opacity:0.64"/>
+    <use href="#c4" x="792" class="f" style="animation-duration:3.8s;animation-delay:-1.4s;opacity:0.57"/>
+    <use href="#c4" x="808" class="f" style="animation-duration:6.5s;animation-delay:-3.2s;opacity:0.76"/>
+    <use href="#c2" x="824" class="f" style="animation-duration:6.6s;animation-delay:-0.5s;opacity:0.64"/>
+    <use href="#c7" x="840" class="f" style="animation-duration:5.8s;animation-delay:-3.2s;opacity:0.69"/>
+    <use href="#c1" x="856" class="f" style="animation-duration:4.4s;animation-delay:-3.8s;opacity:0.63"/>
+    <use href="#c2" x="872" class="f" style="animation-duration:4.0s;animation-delay:-3.6s;opacity:0.77"/>
+    <use href="#c2" x="888" class="f" style="animation-duration:6.5s;animation-delay:-5.2s;opacity:0.95"/>
+    <rect width="900" height="100" fill="url(#dim)"/>
+  </g>
+  <text class="m2" x="450" y="56" text-anchor="middle"><tspan class="p">$ </tspan>gracias por visitar mi perfil<tspan class="cur">_</tspan></text>
 </svg>

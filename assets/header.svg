@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Brandon Acevedo - Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#16244a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#38bdf8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <style>
+    .t { font: 700 54px 'Segoe UI', Arial, sans-serif; fill: #ffffff; animation: up 1s ease backwards; }
+    .s { font: 500 20px 'Courier New', monospace; fill: #38bdf8; animation: up 1s 0.5s ease backwards; }
+    .cur { fill: #38bdf8; animation: blink 1s steps(1) infinite; }
+    .f { font: 600 24px 'Courier New', monospace; fill: #38bdf8; opacity: 0.22; animation: float 6s ease-in-out infinite; }
+    .f2 { fill: #a78bfa; animation-duration: 7.5s; animation-delay: -2s; }
+    .f3 { animation-duration: 5s; animation-delay: -4s; }
+    .ul { transform-box: fill-box; transform-origin: center; animation: grow 1.2s 0.3s ease backwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes float { 50% { transform: translateY(-12px); } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+  <rect width="900" height="220" rx="16" fill="url(#grid)"/>
+  <text class="f" x="60" y="60">&lt;/&gt;</text>
+  <text class="f f2" x="130" y="170">{ }</text>
+  <text class="f f3" x="770" y="70">git</text>
+  <text class="f" x="690" y="175">npm</text>
+  <text class="f f2" x="830" y="150">;</text>
+  <text class="f f3" x="210" y="45">=&gt;</text>
+  <text class="t" x="450" y="103" text-anchor="middle">Brandon Acevedo</text>
+  <rect class="ul" x="330" y="120" width="240" height="4" rx="2" fill="url(#line)"/>
+  <text class="s" x="450" y="163" text-anchor="middle">Full Stack Developer · SaaS Builder<tspan class="cur">_</tspan></text>
+</svg>

@@ -71,10 +71,7 @@
 
 <img src="https://raw.githubusercontent.com/brandonxf/brandonxf/main/assets/contrib-3d.svg" width="100%" alt="Grafica 3D de contribuciones" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brandonxf/brandonxf/output/github-snake.svg" />
-  <img alt="Snake comiendo mis contribuciones" src="https://raw.githubusercontent.com/brandonxf/brandonxf/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/brandonxf/brandonxf/main/assets/snake-game.svg" width="100%" alt="Serpiente que crece al comer mis contribuciones y termina en Game Over" />
 
 </div>
 

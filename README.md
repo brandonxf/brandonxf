@@ -18,19 +18,19 @@
 <br/>
 
 <!-- ============ SOBRE MI ============ -->
-## <img src="https://api.iconify.design/lucide/user.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> Sobre mí
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> Sobre mí
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-<img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="middle" alt="" /> Trabajando en proyectos propios tipo **SaaS**
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="absmiddle" alt="" /> Trabajando en proyectos propios tipo **SaaS**
 
-<img src="https://api.iconify.design/lucide/book-open.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="middle" alt="" /> Aprendiendo backend, arquitectura y productos digitales
+<img src="https://api.iconify.design/lucide/book-open.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="absmiddle" alt="" /> Aprendiendo backend, arquitectura y productos digitales
 
-<img src="https://api.iconify.design/lucide/puzzle.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="middle" alt="" /> Resuelvo problemas complejos con soluciones simples
+<img src="https://api.iconify.design/lucide/puzzle.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="absmiddle" alt="" /> Resuelvo problemas complejos con soluciones simples
 
-<img src="https://api.iconify.design/lucide/target.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="middle" alt="" /> Enfoque: construir cosas que la gente **realmente use**
+<img src="https://api.iconify.design/lucide/target.svg?color=%2338bdf8&width=18&height=18" width="18" height="18" align="absmiddle" alt="" /> Enfoque: construir cosas que la gente **realmente use**
 
 </td>
 <td width="40%" align="center">
@@ -42,7 +42,7 @@
 </table>
 
 <!-- ============ TECH STACK ============ -->
-## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> Tech Stack
+## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> Tech Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 </div>
 
 <!-- ============ STATS ============ -->
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> GitHub Stats
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> GitHub Stats
 
 <div align="center">
 
@@ -72,16 +72,16 @@
 </div>
 
 <!-- ============ PROYECTOS ============ -->
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> Proyectos Destacados
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Links |
 |---|---|---|---|
-| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="middle" alt="" /> **LifeOS App** | Sistema operativo personal: finanzas, tareas, hábitos, metas, salud y asistente de IA | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | <a href="https://life-os-2-0-client.vercel.app/"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" />&nbsp;Demo</a><br/><a href="https://github.com/brandonxf/LifeOS-2.0"><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" />&nbsp;Código</a> |
-| <img src="https://api.iconify.design/lucide/layout-template.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="middle" alt="" /> **LifeOS Landing** | Landing page de LifeOS con sección de descarga del APK | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | <a href="https://lifeos-landing-liart.vercel.app"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" />&nbsp;Demo</a><br/><a href="https://github.com/brandonxf/lifeos-landing"><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" />&nbsp;Código</a> |
-| <img src="https://api.iconify.design/lucide/sprout.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="middle" alt="" /> **Manjares Del Campo** | Gestión y visualización de productos agrícolas | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | <a href="https://granja-nu.vercel.app"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" />&nbsp;Demo</a><br/><a href="https://github.com/brandonxf/granja"><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="middle" alt="" />&nbsp;Código</a> |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="absmiddle" alt="" /> **LifeOS App** | Sistema operativo personal: finanzas, tareas, hábitos, metas, salud y asistente de IA | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | <a href="https://life-os-2-0-client.vercel.app/"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="absmiddle" alt="" />&nbsp;Demo</a><br/><a href="https://github.com/brandonxf/LifeOS-2.0"><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="absmiddle" alt="" />&nbsp;Código</a> |
+| <img src="https://api.iconify.design/lucide/layout-template.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="absmiddle" alt="" /> **LifeOS Landing** | Landing page de LifeOS con sección de descarga del APK | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) | <a href="https://lifeos-landing-liart.vercel.app"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="absmiddle" alt="" />&nbsp;Demo</a><br/><a href="https://github.com/brandonxf/lifeos-landing"><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="absmiddle" alt="" />&nbsp;Código</a> |
+| <img src="https://api.iconify.design/lucide/sprout.svg?color=%2338bdf8&width=16&height=16" width="16" height="16" align="absmiddle" alt="" /> **Manjares Del Campo** | Gestión y visualización de productos agrícolas | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | <a href="https://granja-nu.vercel.app"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="absmiddle" alt="" />&nbsp;Demo</a><br/><a href="https://github.com/brandonxf/granja"><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8&width=14&height=14" width="14" height="14" align="absmiddle" alt="" />&nbsp;Código</a> |
 
 <!-- ============ CONTACTO ============ -->
-## <img src="https://api.iconify.design/lucide/handshake.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="middle" alt="" /> Conecta conmigo
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%2338bdf8&width=22&height=22" width="22" height="22" align="absmiddle" alt="" /> Conecta conmigo
 
 <div align="center">
 

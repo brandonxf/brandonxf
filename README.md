@@ -72,17 +72,6 @@
 
 </div>
 
-<!-- ============ SNAKE (requiere la GitHub Action incluida) ============ -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brandonxf/brandonxf/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brandonxf/brandonxf/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/brandonxf/brandonxf/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
 <!-- ============ PROYECTOS ============ -->
 ## 🚀 Proyectos Destacados
 

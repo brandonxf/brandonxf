@@ -63,40 +63,23 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=brandonxf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonxf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img src="https://img.shields.io/github/stars/brandonxf?style=for-the-badge&logo=github&label=Stars&color=0e75b6" alt="stars" />
+<img src="https://img.shields.io/badge/Repos-11-0e75b6?style=for-the-badge&logo=github" alt="repos" />
+<img src="https://img.shields.io/github/last-commit/brandonxf/brandonxf?style=for-the-badge&label=%C3%9Altimo%20commit&color=0e75b6" alt="last commit" />
 
 <img src="https://streak-stats.demolab.com/?user=brandonxf&theme=tokyo-night&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brandonxf&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" width="100%" alt="activity graph" />
+<img src="https://ghchart.rshah.org/38bdf8/brandonxf" width="100%" alt="contribuciones" />
 
 </div>
 
 <!-- ============ PROYECTOS ============ -->
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/brandonxf/granja">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brandonxf&repo=granja&theme=tokyonight&hide_border=true" alt="Manjares Del Campo" />
-</a>
-<a href="https://github.com/brandonxf/integraseo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brandonxf&repo=integraseo&theme=tokyonight&hide_border=true" alt="GoRutas" />
-</a>
-
-</div>
-
 | Proyecto | Descripción | Stack | Links |
 |---|---|---|---|
 | 🌾 **Manjares Del Campo** | Gestión y visualización de productos agrícolas | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [Demo](https://granja-nu.vercel.app) · [Código](https://github.com/brandonxf/granja) |
 | 🚚 **GoRutas** | Plataforma de rutas y gestión operativa | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [Demo](https://integraseo.vercel.app) · [Código](https://github.com/brandonxf/integraseo) |
-
-<!-- ============ TROFEOS ============ -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=brandonxf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trofeos" />
-
-</div>
 
 <!-- ============ CONTACTO ============ -->
 ## 🤝 Conecta conmigo

@@ -49,29 +49,57 @@ function simulate(cell, w0, INIT, MAXLEN) {
     const blocked = new Map();
     body.forEach((b, j) => blocked.set(K(b[0], b[1]), len - 1 - j));
     const prev = new Map(), seen = new Set([K(head[0], head[1])]);
-    let queue = [[head[0], head[1], 0, heading]], found = null;
-    for (let qi = 0; qi < queue.length && !found; qi++) {
+    let queue = [[head[0], head[1], 0, heading]];
+    const founds = [];
+    for (let qi = 0; qi < queue.length; qi++) {
       const [w, d, dist, h] = queue[qi];
       for (const dv of dirs(h)) {
         const nw = w + dv[0], nd = d + dv[1], nk = K(nw, nd);
         if (!inGrid(nw, nd) || seen.has(nk)) continue;
         if (blocked.has(nk) && dist + 1 <= blocked.get(nk)) continue;
         seen.add(nk); prev.set(nk, [w, d]);
-        if (food.has(nk)) { found = [nw, nd]; break; }
+        if (food.has(nk)) { founds.push([nw, nd]); continue; }
         queue.push([nw, nd, dist + 1, dv]);
       }
     }
+    // espacio libre alcanzable desde la cabeza (evita quedar atrapada)
+    const room = (bd) => {
+      const occ = new Set(bd.slice(0, bd.length - 1).map((b) => K(b[0], b[1])));
+      const st = [bd[0]], sn = new Set([K(bd[0][0], bd[0][1])]);
+      let n = 0;
+      while (st.length) {
+        const [w, d] = st.pop();
+        for (const dv of [[1, 0], [-1, 0], [0, 1], [0, -1]]) {
+          const nw = w + dv[0], nd = d + dv[1], nk = K(nw, nd);
+          if (!inGrid(nw, nd) || sn.has(nk) || occ.has(nk)) continue;
+          sn.add(nk); n++; st.push([nw, nd]);
+        }
+      }
+      return n;
+    };
     let steps = [];
-    if (found) {
-      let cur = found;
-      while (!(cur[0] === head[0] && cur[1] === head[1])) { steps.unshift(cur); cur = prev.get(K(cur[0], cur[1])); }
-    } else {
-      let moved = false;
+    for (const f of founds) {
+      const st = [];
+      let cur = f;
+      while (!(cur[0] === head[0] && cur[1] === head[1])) { st.unshift(cur); cur = prev.get(K(cur[0], cur[1])); }
+      let nb = body.map((b) => b.slice());
+      for (const p of st) {
+        nb.unshift(p);
+        if (!(food.has(K(p[0], p[1])) && true)) nb.pop();
+        else if (nb.length > MAXLEN) nb.pop();
+      }
+      if (room(nb) >= nb.length + 2) { steps = st; break; }
+    }
+    if (!steps.length) {
+      let best = -1;
       for (const dv of dirs(heading)) {
         const nw = head[0] + dv[0], nd = head[1] + dv[1];
-        if (inGrid(nw, nd) && !(blocked.has(K(nw, nd)) && 1 <= blocked.get(K(nw, nd)))) { steps = [[nw, nd]]; moved = true; break; }
+        if (!inGrid(nw, nd) || (blocked.has(K(nw, nd)) && 1 <= blocked.get(K(nw, nd)))) continue;
+        const nb = [[nw, nd], ...body.slice(0, body.length - 1)];
+        const r = room(nb);
+        if (r > best) { best = r; steps = [[nw, nd]]; }
       }
-      if (!moved) break;
+      if (!steps.length) { console.error("TRAPPED food left", food.size, "len", body.length); break; }
     }
     for (const s of steps) {
       heading = [s[0] - body[0][0], s[1] - body[0][1]];
@@ -96,7 +124,7 @@ function simulate(cell, w0, INIT, MAXLEN) {
 function render(days) {
   const W = 880, H = 215, CELL = 12, PITCH = 15, COLS = 53;
   const gx = Math.round((W - COLS * PITCH) / 2), gy = 52;
-  const STEP = 0.07, INIT = 3, MAXLEN = 60;
+  const STEP = 0.07, INIT = 3, MAXLEN = 25;
   const cx = (w) => gx + w * PITCH, cy = (d) => gy + d * PITCH;
   const LV = ['#1e2a4a', '#0e4429', '#006d32', '#26a641', '#39d353'];
   const lvl = (c) => (c === 0 ? 0 : c <= 3 ? 1 : c <= 9 ? 2 : c <= 19 ? 3 : 4);

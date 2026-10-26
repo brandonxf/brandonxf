@@ -21,7 +21,7 @@
   </style>
   <rect width="900" height="540" rx="16" fill="url(#bg)"/>
   <text class="ti" x="28" y="34">CONTRIBUCIONES · ÚLTIMO AÑO</text>
-  <text class="dt" x="872" y="34" text-anchor="end">2025-10-26 / 2026-10-25</text>
+  <text class="dt" x="872" y="34" text-anchor="end">2025-10-26 / 2026-10-26</text>
   <g>
     <path d="M130.0 120.0l11 5.5l-11 5.5l-11 -5.5z" fill="#222d4d"/>
     <path d="M119.0 125.5l11 5.5l-11 5.5l-11 -5.5z" fill="#222d4d"/>
@@ -378,6 +378,7 @@
     <path d="M625.0 411.5l11 5.5l-11 5.5l-11 -5.5z" fill="#222d4d"/>
     <path d="M647.0 411.5l11 5.5l-11 5.5l-11 -5.5z" fill="#222d4d"/>
     <g class="b" style="animation-delay:1.53s"><path d="M658.0 412.0l11 5.5v5.0l-11 -5.5z" fill="#144f76"/><path d="M669.0 417.5l11 -5.5v5.0l-11 5.5z" fill="#0e3752"/><path d="M669.0 406.5l11 5.5l-11 5.5l-11 -5.5z" fill="#1d6fa5"/></g>
+    <path d="M691.0 411.5l11 5.5l-11 5.5l-11 -5.5z" fill="#222d4d"/>
     <path d="M592.0 417.0l11 5.5l-11 5.5l-11 -5.5z" fill="#222d4d"/>
     <path d="M614.0 417.0l11 5.5l-11 5.5l-11 -5.5z" fill="#222d4d"/>
     <path d="M636.0 417.0l11 5.5l-11 5.5l-11 -5.5z" fill="#222d4d"/>

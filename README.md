@@ -64,7 +64,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/github/stars/brandonxf?style=for-the-badge&logo=github&label=Stars&color=0e75b6" alt="stars" />
-<img src="https://img.shields.io/badge/Repos-11-0e75b6?style=for-the-badge&logo=github" alt="repos" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbrandonxf%2Fbrandonxf%2Fmain%2Fassets%2Frepos-badge.json&style=for-the-badge&logo=github" alt="repos" />
 <img src="https://img.shields.io/github/last-commit/brandonxf/brandonxf?style=for-the-badge&label=%C3%9Altimo%20commit&color=0e75b6" alt="last commit" />
 
 <img src="https://streak-stats.demolab.com/?user=brandonxf&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
